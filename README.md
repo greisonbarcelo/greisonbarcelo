@@ -1,4 +1,8 @@
-<img src="https://github.com/user-attachments/assets/be66fd34-978c-40d5-ad16-1f4b15ec7fcb" alt=”my banner”>
+<p align="center">
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="my banner"></a>
+</p>
+
+
 ## Hi there 👋
 
 <!--
