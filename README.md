@@ -15,7 +15,7 @@ I love the entire process of developing creative and complex software. I love th
 
 ### 🤝 Connect with me:
 </br>
-<a href="https://www.linkedin.com/in/greisonbarcelo/"><img src="https://raw.githubusercontent.com/greisonbarcelo/greisonbarcelo/main/images/linkedin.svg" alt="Greison Barcelo | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/greisonbarcelo/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Greison Barcelo | LinkedIn" width="21px"/></a>
 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
