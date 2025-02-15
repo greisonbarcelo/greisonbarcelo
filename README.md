@@ -1,4 +1,4 @@
-<img src=”https://github.com/user-attachments/assets/be66fd34-978c-40d5-ad16-1f4b15ec7fcb" alt=”my banner”>
+<img src="https://github.com/user-attachments/assets/be66fd34-978c-40d5-ad16-1f4b15ec7fcb" alt=”my banner”>
 ## Hi there 👋
 
 <!--
