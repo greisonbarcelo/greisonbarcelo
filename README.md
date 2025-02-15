@@ -14,7 +14,7 @@ I'm a Software Developer 💻 and Designer 🎨!
 I love the entire process of developing creative and complex software. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
 
 ### 🤝 Connect with me:
-
+</br>
 <a href="https://www.linkedin.com/in/greisonbarcelo/"><img align="left" src="https://raw.githubusercontent.com/greisonbarcelo/greisonbarcelo/main/images/linkedin.svg" alt="Greison Barcelo | LinkedIn" width="21px"/></a>
 
 </br>
