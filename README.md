@@ -22,8 +22,8 @@ I love the entire process of developing creative and complex software. I love th
 
 ## 🔭 I'm currently working on
 
-- The odin project
-- Etch-a-Sketch App (Vanilla-Javascript)
+- The odin project (React Path)
+- Advanced Calculator App (Vanilla-Javascript)
 - My CSS skill
 
 ## 🌱 I'm currently learning
