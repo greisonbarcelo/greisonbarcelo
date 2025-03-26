@@ -18,7 +18,7 @@ I love the entire process of developing creative and complex software. I love th
 <a href="https://www.linkedin.com/in/greisonbarcelo/"><img align="left" src="https://github.com/yushi1007/yushi1007/blob/main/images/linkedin.svg" alt=”icon | LinkedIn” width="21px"/></a>
 </br>
 </br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me.
 
 ## 🔭 I'm currently working on
 
