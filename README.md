@@ -26,12 +26,15 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Software Development & I enjoy learning new things. </br>
 
 
+<div> 
 <a href="https://github.com/greisonbarcelo/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greisonbarcelo" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greisonbarcelo&show_icons=true&theme=transparent&rank_icon=github&card_width=100" />
 </a>
 <a href="https://github.com/greisonbarcelo/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greisonbarcelo&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=greisonbarcelo&layout=compact&theme=transparent&langs_count=8&card_width=100" />
 </a>
+</div>
+
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=greisonbarcelo.greisonbarcelo)
