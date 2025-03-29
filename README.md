@@ -34,10 +34,10 @@ Here are some ideas to get you started:
 </a>
 </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greisonbarcelo&hide_title=true" />
+<a href="https://github.com/greisonbarcelo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greisonbarcelo&theme=transparent&rank_icon=github" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/greisonbarcelo/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=greisonbarcelo&layout=compact&langs_count=8&card_width=320" />
 </a>
 <br />
