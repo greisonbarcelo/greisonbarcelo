@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 🌱 I’m a Software Developer. </br>
 👨‍💻  I am passionate about Software Development & I enjoy learning new things. </br>
 
-
+📜 Github stats:
 <div> 
 <a href="https://github.com/greisonbarcelo/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=greisonbarcelo&show_icons=true&theme=transparent&rank_icon=github&card_width=100" />
@@ -38,5 +38,3 @@ Here are some ideas to get you started:
 <br />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=greisonbarcelo.greisonbarcelo)
-
-
