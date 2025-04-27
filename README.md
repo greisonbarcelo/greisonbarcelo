@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ### About Me 🚀 
 🌱 I’m a Software Developer. </br>
-👨‍💻 I am passionate about Software Development & I enjoy learning new things. </br>
+👨‍💻 I am a Software Development & I learn tech by solving problems. </br>
 
 📜 Github stats:
 <div> 
